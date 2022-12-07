@@ -1,0 +1,9 @@
+title: ModernCraftLauncher
+external_link:
+  enable: false
+  field: site
+favicon:
+  small: favicon.ico
+  medium: favicon.ico
+
+theme: jekyll-theme-cayman
