@@ -21,5 +21,5 @@
 </tr>
 </tbody>
 </table><hr>
-<p>MCL启动器只支持 <strong>Windows 7及以上</strong> 的系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
+<p>MCL启动器只支持 <strong>Windows 10及以上</strong> 的系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
 
