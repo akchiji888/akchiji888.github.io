@@ -20,6 +20,6 @@
 <td align="center"><a href="https://www.123pan.com/s/DijKVv-H4ngA">https://www.123pan.com/s/DijKVv-H4ngA</a></td>
 </tr>
 </tbody>
-</table><hr>
-<p>MCL启动器只支持 <strong>Windows 10及以上</strong> 的系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
+</table><p>MCL启动器只支持 **Windows ** 系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
+<h5 id="到爱发电赞助我"><span class="prefix"></span><span class="content">到<a href="https://afdian.net/a/mcl888">爱发电赞助我</a></span><span class="suffix"></span></h5>
 
