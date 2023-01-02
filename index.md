@@ -23,6 +23,10 @@
 <td align="center">v1.0.1</td>
 <td align="center"><a href="https://www.123pan.com/s/DijKVv-gBngA">https://www.123pan.com/s/DijKVv-gBngA</a></td>
 </tr>
+<tr>
+<td align="center">v1.1.0</td>
+<td align="center"><a href="https://www.123pan.com/s/DijKVv-5gngA">https://www.123pan.com/s/DijKVv-5gngA</a></td>
+</tr>
 </tbody>
 </table><p>PS : MCL启动器只支持<strong>Windows</strong>系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
 <hr>
