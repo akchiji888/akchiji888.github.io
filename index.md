@@ -17,11 +17,11 @@
 <tbody>
 <tr>
 <td align="center">v1.0.0</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-H4ngA">https://www.123pan.com/s/DijKVv-H4ngA</a></td>
+<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
 </tr>
 <tr>
 <td align="center">v1.0.1</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-gBngA">https://www.123pan.com/s/DijKVv-gBngA</a></td>
+<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
 </tr>
 <tr>
 <td align="center">v1.1.0</td>
@@ -30,6 +30,10 @@
 <tr>
 <td align="center">v1.1.1</td>
 <td align="center"><a href="https://www.123pan.com/s/DijKVv-NFngA">https://www.123pan.com/s/DijKVv-NFngA</a></td>
+</tr>
+<tr>
+<td align="center">V1.2.0</td>
+<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
 </tr>
 </tbody>
 </table><p>PS : MCL启动器只支持<strong>Windows</strong>系统（推荐使用Windows10及更新的Windows系统），以及需要安装 <strong>.Net6</strong> 的环境！</p>
