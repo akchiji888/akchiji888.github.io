@@ -46,5 +46,5 @@
 </tbody>
 </table><p>PS : MCL启动器只支持<strong>Windows</strong>系统（推荐使用Windows10及更新的Windows系统），以及需要安装 <strong>.Net6</strong> 的环境！</p>
 <hr>
-<h5 id="到爱发电赞助我"><span class="prefix"></span><span class="content">到<a href="https://afdian.net/a/mcl888">爱发电赞助我</a></span><span class="suffix"></span></h5>
+<h5 id="如果觉得启动器不错的话，可以到爱发电赞助我awa"><span class="prefix"></span><span class="content">如果觉得启动器不错的话，可以到<a href="https://afdian.net/a/mcl888">爱发电</a>赞助我awa</span><span class="suffix"></span></h5>
 
