@@ -24,7 +24,10 @@
 <blockquote>
 <p>暂无</p>
 </blockquote>
-<p>PS : MCLX启动器只支持<strong>Windows10 1809及更高版本</strong>的Windows系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
+<blockquote>
+<p><a href="https://akchiji888.github.io/mcl1">在寻找MCL1.x？</a><br>
+PS : MCLX启动器只支持<strong>Windows10 1809及更高版本</strong>的Windows系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
+</blockquote>
 <hr>
 <h5 id="如果觉得启动器不错的话，可以到爱发电赞助我awa"><span class="prefix"></span><span class="content">如果觉得启动器不错的话，可以到<a href="https://afdian.net/a/mcl888">爱发电</a>赞助我awa</span><span class="suffix"></span></h5>
 
