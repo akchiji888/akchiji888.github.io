@@ -3,56 +3,28 @@
 
 ---
 
-<h1 id="moderncraftlauncher"><span class="prefix"></span><span class="content">ModernCraftLauncher</span><span class="suffix"></span></h1>
+<h1 id="moderncraftlauncherx"><span class="prefix"></span><span class="content">ModernCraftLauncherX</span><span class="suffix"></span></h1>
 <h2 id="你的下一个minecraft启动器"><span class="prefix"></span><span class="content">你的下一个Minecraft启动器</span><span class="suffix"></span></h2>
-<h3 id="下载地址"><span class="prefix"></span><span class="content">下载地址</span><span class="suffix"></span></h3>
+<h3 id="最新版本"><span class="prefix"></span><span class="content">最新版本</span><span class="suffix"></span></h3>
 
 <table>
 <thead>
 <tr>
 <th align="center">版本</th>
-<th align="center">下载URI</th>
+<th align="left">下载URI</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="center">v1.0.0</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.0.1</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.1.0</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-5gngA">https://www.123pan.com/s/DijKVv-5gngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.1.1</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-NFngA">https://www.123pan.com/s/DijKVv-NFngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.2.0</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-yXngA">https://www.123pan.com/s/DijKVv-yXngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.2.1</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-bnngA">https://www.123pan.com/s/DijKVv-bnngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.2.2</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-j2ngA">https://www.123pan.com/s/DijKVv-j2ngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.2.3</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-nNngA">https://www.123pan.com/s/DijKVv-nNngA</a></td>
-</tr>
-<tr>
-<td align="center">v1.2.4</td>
-<td align="center"><a href="https://www.123pan.com/s/DijKVv-O0ngA">https://www.123pan.com/s/DijKVv-O0ngA</a></td>
+<td align="left"><a href="https://www.123pan.com/s/DijKVv-pY2gA.html">https://www.123pan.com/s/DijKVv-pY2gA.html</a></td>
 </tr>
 </tbody>
-</table><p>PS : MCL启动器只支持<strong>Windows</strong>系统（推荐使用Windows10及更新的Windows系统），以及需要安装 <strong>.Net6</strong> 的环境！</p>
+</table><h3 id="历史版本"><span class="prefix"></span><span class="content">历史版本</span><span class="suffix"></span></h3>
+<blockquote>
+<p>暂无</p>
+</blockquote>
+<p>PS : MCLX启动器只支持<strong>Windows10 1809及更高版本</strong>的Windows系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
 <hr>
 <h5 id="如果觉得启动器不错的话，可以到爱发电赞助我awa"><span class="prefix"></span><span class="content">如果觉得启动器不错的话，可以到<a href="https://afdian.net/a/mcl888">爱发电</a>赞助我awa</span><span class="suffix"></span></h5>
 
