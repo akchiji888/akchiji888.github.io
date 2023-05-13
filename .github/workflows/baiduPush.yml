@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest # 运行环境为最新版的Ubuntu
     steps:
       - name: 'Run baiduPush.sh' # 步骤二，执行sh命令文件
-        run: curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://mcl.akblog.tk&token=7ucpZ5aLRxJvopnn" # 运行命令。（注意，运行目录是仓库根目录）
+        run: curl -H 'Content-Type:text/plain' --data-binary @urls.txt "http://data.zz.baidu.com/urls?site=https://akchiji888.github.io&token=7ucpZ5aLRxJvopnn" # 运行命令。（注意，运行目录是仓库根目录）
