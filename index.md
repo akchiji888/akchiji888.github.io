@@ -32,7 +32,7 @@
 <tbody>
 <tr>
 <td align="center">v1.0.0</td>
-<td align="left"><a href="https://www.123pan.com/s/DijKVv-pY2gA.html">https://www.123pan.com/s/DijKVv-pY2gA.html</a></td>
+<td align="left"><a href="https://www.123pan.com/s/DijKVv-UP2gA.html">https://www.123pan.com/s/DijKVv-UP2gA.html</a></td>
 </tr>
 </tbody>
 </table><blockquote>
