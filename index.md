@@ -16,8 +16,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center">v1.0.2</td>
-<td align="left"><a href="https://www.123pan.com/s/DijKVv-3X2gA.html">https://www.123pan.com/s/DijKVv-3X2gA.html</a></td>
+<td align="center">v1.0.2.1</td>
+<td align="left"><a href="https://www.123pan.com/s/DijKVv-hX2gA.html">https://www.123pan.com/s/DijKVv-hX2gA.html</a></td>
 </tr>
 </tbody>
 </table><h3 id="历史版本"><span class="prefix"></span><span class="content">历史版本</span><span class="suffix"></span></h3>
@@ -30,6 +30,10 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td align="center">v1.0.2</td>
+<td align="left"><a href="https://www.123pan.com/s/DijKVv-3X2gA.html">https://www.123pan.com/s/DijKVv-3X2gA.html</a></td>
+</tr>
 <tr>
 <td align="center">v1.0.1</td>
 <td align="left"><a href="https://www.123pan.com/s/DijKVv-SP2gA.html">https://www.123pan.com/s/DijKVv-SP2gA.html</a></td>
