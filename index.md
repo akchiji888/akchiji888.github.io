@@ -16,15 +16,26 @@
 </thead>
 <tbody>
 <tr>
+<td align="center">v1.0.1</td>
+<td align="left"><a href="https://www.123pan.com/s/DijKVv-uP2gA.html">https://www.123pan.com/s/DijKVv-uP2gA.html</a></td>
+</tr>
+</tbody>
+</table><h3 id="历史版本"><span class="prefix"></span><span class="content">历史版本</span><span class="suffix"></span></h3>
+
+<table>
+<thead>
+<tr>
+<th align="center">版本</th>
+<th align="left">下载URI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td align="center">v1.0.0</td>
 <td align="left"><a href="https://www.123pan.com/s/DijKVv-pY2gA.html">https://www.123pan.com/s/DijKVv-pY2gA.html</a></td>
 </tr>
 </tbody>
-</table><h3 id="历史版本"><span class="prefix"></span><span class="content">历史版本</span><span class="suffix"></span></h3>
-<blockquote>
-<p>暂无</p>
-</blockquote>
-<blockquote>
+</table><blockquote>
 <p><a href="https://akchiji888.github.io/mcl1">在寻找MCL1.x？</a><br>
 PS : MCLX启动器只支持<strong>Windows10 1809及更高版本</strong>的Windows系统，以及需要安装 <strong>.Net6</strong> 的环境！</p>
 </blockquote>
